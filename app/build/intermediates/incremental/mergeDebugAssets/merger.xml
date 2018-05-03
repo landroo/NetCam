@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Work\Java\AndroidStudioProjects\NetCam\app\src\main\assets"><file name="index.html" path="C:\Work\Java\AndroidStudioProjects\NetCam\app\src\main\assets\index.html"/></source><source path="C:\Work\Java\AndroidStudioProjects\NetCam\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Work\Java\AndroidStudioProjects\NetCam\app\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\btn_states.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\drawable-nodpi\\btn_states.xml"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\border_sel.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\drawable-nodpi\\border_sel.xml"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\border1.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\drawable-nodpi\\border1.xml"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\border_press.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\drawable-nodpi\\border_press.xml"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\border_dis.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\drawable-nodpi\\border_dis.xml"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\border.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\drawable-nodpi\\border.xml"
+    }
+]

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rkovacs\.android\build-cache\71c93c5f9f36d61dd53c2e50f8558c4078a16849\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Work\Java\AndroidStudioProjects\NetCam\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_042aa4577f835d6f40f969cabfa7d7a62ecdea66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Work\Java\AndroidStudioProjects\NetCam\app\libs\javacv.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df8e6257480f3f58fca5f6867fe6bf6ac000d7ea">
+        <dex dex="C:\Work\Java\AndroidStudioProjects\NetCam\app\build\intermediates\pre-dexed\debug\javacv_d4a6711012f2300053fa233998925619505535af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Work\Java\AndroidStudioProjects\NetCam\app\libs\opencv.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d442ea90d190e680d8c6f18469aaeaed26c00c77">
+        <dex dex="C:\Work\Java\AndroidStudioProjects\NetCam\app\build\intermediates\pre-dexed\debug\opencv_5960da7e87652cd247c0cf20a9ab5fa103640213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rkovacs\.android\build-cache\71c93c5f9f36d61dd53c2e50f8558c4078a16849\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Work\Java\AndroidStudioProjects\NetCam\app\build\intermediates\pre-dexed\debug\classes_d3d3d9eefa753edc03735659c75109a2c9cf2ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rkovacs\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Work\Java\AndroidStudioProjects\NetCam\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_df1a2046832e162f3b714831411a1367459fb9db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Work\Java\AndroidStudioProjects\NetCam\app\libs\ffmpeg.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b506fefac100e50800bb1b5908d7588ab21fb45">
+        <dex dex="C:\Work\Java\AndroidStudioProjects\NetCam\app\build\intermediates\pre-dexed\debug\ffmpeg_fd9851c4a357d6cdb9469f39d7cfd9de37995f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Work\Java\AndroidStudioProjects\NetCam\app\libs\javacpp.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdea626b334e6a31cfa7b2a9ab3881e6da7015ce">
+        <dex dex="C:\Work\Java\AndroidStudioProjects\NetCam\app\build\intermediates\pre-dexed\debug\javacpp_1582c06087cc13c4bbe6a0026f3209cd68f3d34d.jar" />
+    </item>
+
+</items>

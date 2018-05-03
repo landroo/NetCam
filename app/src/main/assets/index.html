@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset=\"UTF-8\">
+		<title>CamServer</title>
+		<script>
+			var timer;
+			var tick = 0;
+			image = new Image();
+			reload = new Date();
+			reload = reload.getTime();
+			image.src = "image.jpg?nocache=" + reload;
+			
+			function refreshCam()
+			{
+				if(!focused)
+					return;
+
+				tick++;
+				if(tick > 3)
+					{restart = 1;} 
+				else 
+					{restart = 0;}
+					
+				if(image.complete)
+				{
+					tick = 0;
+					document.images["webcam"].src = image.src;
+					image = new Image();
+					reload = new Date();
+					reload = reload.getTime();
+					window.status = "";
+					image.src = "image.jpg?nocache=" + reload;
+				}
+				
+				if(restart)
+				{
+					tick = 0;
+					image = new Image();
+					reload = new Date();
+					reload = reload.getTime();
+					window.status = "";
+					image.src = "image.jpg?nocache=" + reload;
+				}
+				window.status = window.status + ".";
+				timer = Timer("refreshCam()", 500);
+			}
+
+			function Timer(callback, delay)
+			{
+				var timerId, start, remaining = delay;
+
+				this.pause = function()
+				{
+					window.clearTimeout(timerId);
+					remaining -= new Date() - start;
+				};
+
+				this.resume = function()
+				{
+					start = new Date();
+					window.clearTimeout(timerId);
+					timerId = window.setTimeout(callback, remaining);
+				};
+
+				this.resume();
+			}
+
+			var focused = true;
+			window.onfocus = function()
+			{
+				focused = true;
+				refreshCam();
+			};
+			window.onblur = function()
+			{
+				var cb = document.getElementById("bgCheck");
+				if(!cb.checked)
+					focused = false;
+			};
+
+			refreshCam();
+		</script>
+	</head>
+	<body>
+		<img name="webcam" src="image.jpg" border=1><br>
+		<a href="imagelist.html">Last images</a><br>
+		Background: <input type="checkbox" id="bgCheck">
+	</body>
+</html>

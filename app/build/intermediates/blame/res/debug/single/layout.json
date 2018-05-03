@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cam_main.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\layout\\activity_cam_main.xml"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cam_sender.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\layout\\activity_cam_sender.xml"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cam_receiver.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\layout\\activity_cam_receiver.xml"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cam_server.xml",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\layout\\activity_cam_server.xml"
+    }
+]

@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.landroo.netcam.CamServerActivity" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center" >
+
+        <FrameLayout
+            android:id="@+id/serverPreview"
+            android:layout_width="640px"
+            android:layout_height="480px" >
+        </FrameLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/serverIpTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="192.168.0.1" />
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent">
+
+        <RadioGroup
+            android:id="@+id/serverSizeGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/serverIpTextView"
+            android:padding="5dip" >
+        </RadioGroup>
+    </ScrollView>
+
+    <RadioGroup
+        android:id="@+id/serverCameraGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:padding="5dip" >
+    </RadioGroup>
+
+    <RadioGroup
+        android:id="@+id/serverVisibleGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/serverCameraGroup"
+        android:padding="5dip" >
+
+        <RadioButton
+            android:id="@+id/preview_visible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/preview_visible" />
+
+        <RadioButton
+            android:id="@+id/preview_invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/preview_invisible" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/serverInfoText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/sentImages"
+            android:visibility="invisible"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

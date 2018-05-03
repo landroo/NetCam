@@ -1,0 +1,425 @@
+[
+    {
+        "outputFile": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 53,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 43,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 43,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 38,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1110,
+                        "endColumn": 38,
+                        "endOffset": 1144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 38,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 38,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 52,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 57,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 57,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 86,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endColumn": 86,
+                        "endOffset": 1344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 61,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 61,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 55,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 55,
+                        "endOffset": 517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 52,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 52,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 54,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1206,
+                        "endColumn": 54,
+                        "endOffset": 1256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 62,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 62,
+                        "endOffset": 864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endColumn": 54,
+                    "endOffset": 768
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 54,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 773,
+                    "endColumn": 74,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 74,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 848,
+                    "endColumn": 51,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 51,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 54,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1150,
+                        "endColumn": 54,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 57,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 57,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 54,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 750,
+                        "endColumn": 54,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 59,
+                    "endOffset": 1123
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 870,
+                        "endColumn": 59,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1128,
+                    "endColumn": 67,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 67,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 63,
+                    "endOffset": 1255
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 63,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1260,
+                    "endColumn": 63,
+                    "endOffset": 1319
+                },
+                "from": {
+                    "file": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 63,
+                        "endOffset": 406
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\server.png",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\drawable-land\\server.png"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\receiver.png",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\drawable-land\\receiver.png"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\sender.png",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\drawable-land\\sender.png"
+    }
+]

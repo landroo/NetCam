@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Beállítás</string>
+    <string name="app_name">NetCam</string>
+    <string name="back">Hátsó</string>
+    <string name="front">Első</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ipcam_server">IPCam kiszolgáló</string>
+    <string name="maxerr">A csatlakozott klienensek száma elérte a maximumot!</string>
+    <string name="no_wifi">A WIFI nincs bekapcsolva!</string>
+    <string name="preview_invisible">Használat</string>
+    <string name="preview_visible">Előnézet</string>
+    <string name="recImages">Fogadott képek: </string>
+    <string name="receiver_ip_address">Fogadó ip cím:</string>
+    <string name="receiver_view">Fogadó nézet</string>
+    <string name="resolution">Nem működik, esetleg próbálja újra!</string>
+    <string name="sender_view">Küldő nézet</string>
+    <string name="sentImages">Küldött képek: </string>
+    <string name="start_receiver">Fogadó indítás</string>
+    <string name="start_sender">Küldő inditás</string>
+    <string name="start_server">Kiszolgáló indítás</string>
+    <string name="title_activity_cam_receiver">CamReceiver</string>
+    <string name="title_activity_cam_sender">CamSender</string>
+    <string name="title_activity_cam_server">CamServer</string>
+</resources>

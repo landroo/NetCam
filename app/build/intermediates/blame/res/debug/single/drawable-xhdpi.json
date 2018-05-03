@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_toggle_radio_button_on.png",
+        "source": "C:\\Work\\Java\\AndroidStudioProjects\\NetCam\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_toggle_radio_button_on.png"
+    }
+]

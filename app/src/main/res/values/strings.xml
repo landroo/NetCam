@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NetCam</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cam_receiver">CamReceiver</string>
+    <string name="title_activity_cam_sender">CamSender</string>
+    <string name="title_activity_cam_server">CamServer</string>
+    <string name="preview_visible">Preview</string>
+    <string name="preview_invisible">Usage</string>
+    <string name="receiver_view">Receiver view</string>
+    <string name="sender_view">Sender view</string>
+    <string name="ipcam_server">IPCam server</string>
+    <string name="start_receiver">Start receiver</string>
+    <string name="start_sender">Start sender</string>
+    <string name="receiver_ip_address">Receiver ip address:</string>
+    <string name="start_server">Start server</string>
+    <string name="no_wifi">No Wifi connection!</string>
+    <string name="resolution">Something wrong, may try again!</string>
+    <string name="front">Front</string>
+    <string name="back">Back</string>
+    <string name="sentImages">Sent Images: </string>
+    <string name="recImages">Received Images: </string>
+    <string name="maxerr">The number on of client exceeded the maximum!</string>
+
+</resources>
