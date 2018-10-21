@@ -16,6 +16,8 @@ Ez egy egszerű videókép tivábbító alkalmazás.
 Ha egy régi készülékét szeretné használni IPCam-ként csatlakoztassa a készüléket a töltőhöz és bekpcsolhatja a fejlesztői beállításokon belül a nem kapcsol ki opciót.
 Ha máshonnan is látni akarja a kamera képét akkor a routeren engedélyezni kell a készülék címének és portjának továbbítását (8040).
 
+https://play.google.com/store/apps/details?id=org.landroo.netcam
+
 ![alt tag](https://github.com/landroo/NetCam/blob/master/pictures/device-2016-07-30-150641.png)
 ![alt tag](https://github.com/landroo/NetCam/blob/master/pictures/device-2016-07-30-150711.png)
 ![alt tag](https://github.com/landroo/NetCam/blob/master/pictures/device-2016-07-30-150859.png)
